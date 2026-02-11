@@ -1,5 +1,5 @@
 # 👋 Olá! Eu sou Cauã Rodrigues dos Santos
-[🇧🇷 Português](README.md) | [🇺🇸 English](README.en.md) | 
+
 
 🎓 **Estudante de Engenharia da Computação** | 💻 **Desenvolvedor em Formação** | 🌍 **Guarulhos - SP**
 
