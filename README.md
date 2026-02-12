@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Cauã Rodrigues dos Santos
+# 👋 Olá! Eu sou Cauã Rodrigues
 
 
 🎓 **Estudante de Engenharia da Computação** | 💻 **Desenvolvedor em Formação** | 🌍 **Guarulhos - SP**
