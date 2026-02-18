@@ -18,7 +18,7 @@ Sou um desenvolvedor apaixonado por tecnologia, atualmente cursando Engenharia d
 const caua = {
     linguagens: ["JavaScript", "HTML", "CSS"],
     ferramentas: ["Git", "GitHub", "Excel Avançado"],
-    aprendendo: ["POO", "IA", "Fundamentos de Hardware e Software"],
+    aprendendo: ["POO", "IA", "Fundamentos de Hardware e Software","Typescrpit"],
     idiomas: ["Português (Nativo)", "Inglês (Fluente)"]
 };
 ```
