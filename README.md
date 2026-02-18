@@ -19,7 +19,7 @@ const caua = {
     linguagens: ["JavaScript", "HTML", "CSS"],
     ferramentas: ["Git", "GitHub", "Excel Avançado"],
     aprendendo: ["POO", "IA", "Fundamentos de Hardware e Software"],
-    idiomas: ["Português (Nativo)", "Inglês (Fluente - B1)"]
+    idiomas: ["Português (Nativo)", "Inglês (Fluente)"]
 };
 ```
 
