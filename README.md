@@ -9,7 +9,7 @@ Sou um desenvolvedor apaixonado por tecnologia, atualmente cursando Engenharia d
 
 - 🌱 Aprendendo continuamente sobre desenvolvimento web e novas tecnologias
 - 🎯 Foco em desenvolvimento front-end e lógica de programação
-- 🌍 **Inglês Fluente** - Certificação Cambridge FCE (Level B1)
+- 🌍 **Inglês Fluente** - Certificação Cambridge FCE
   
 
 ## 💻 Tecnologias & Ferramentas
